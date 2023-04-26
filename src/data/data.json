@@ -1,0 +1,19 @@
+{
+  "browsers": [
+    {
+      "name": "Google Chrome",
+      "logo": "https://static.vecteezy.com/system/resources/previews/013/948/547/original/chrome-logo-on-transparent-white-background-free-vector.jpg",
+      "description": "Google Chrome is a fast, secure, and easy-to-use web browser. It has a clean and simple interface and is known for its speed and reliability."
+    },
+    {
+      "name": "Mozilla Firefox",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Firefox_Logo%2C_2017.svg/640px-Firefox_Logo%2C_2017.svg.png",
+      "description": "Mozilla Firefox is a free and open-source web browser. It is known for its customizability and privacy features, as well as its support for web standards."
+    },
+    {
+      "name": "Microsoft Edge",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Microsoft_Edge_logo.svg/640px-Microsoft_Edge_logo.svg.png",
+      "description": "Microsoft Edge is a fast and secure web browser. It is designed to work seamlessly with Windows 10 and has a built-in set of tools for browsing the web, reading e-books, and more."
+    }
+  ]
+}
