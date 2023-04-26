@@ -1,4 +1,5 @@
 {
+  "homepage": "http://AleksandraJ01/github.io/stronaczycos",
   "name": "app",
   "version": "1.0.0",
   "description": "",
@@ -6,7 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
-    "start": "webpack serve"
+    "start": "webpack serve",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "dependencies": {
@@ -22,6 +25,7 @@
   "devDependencies": {
     "@babel/core": "^7.21.4",
     "babel-loader": "^9.1.2",
+    "gh-pages": "^5.0.0",
     "webpack-dev-server": "^4.13.3"
   }
 }
